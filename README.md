@@ -12,7 +12,6 @@ I'm a **Web and (future) Android Developer** with a passion for building efficie
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 **Frameworks & Libraries:**  
-![Laravel(learing)](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 **Database & Backend:**  
@@ -38,8 +37,8 @@ I'm a **Web and (future) Android Developer** with a passion for building efficie
 
 ## 🚀 Learning & Growth
 
-- ⚙️ **Mastering Laravel Advanced Concepts**
-- 🌐 **Vue 3 (Composition API + State Management)**
+- ⚙️ **Learing Laravel and OOP PHP**
+- 🌐 **Learing Java for Enterprise solutions*
 - 🧪 **Exploring Go and Basic Flutter** for cross-platform and backend expansion
 
 ---
